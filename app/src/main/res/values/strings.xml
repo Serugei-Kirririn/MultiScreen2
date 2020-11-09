@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Куда бы поехать в отпуск?</string>
+    <string name="action_settings">Settings</string>
+    <string name="enjoy">Enjoy yourself!</string>
+    <string name="arg">Аргентина</string>
+    <string name="bras">Бразилия</string>
+    <string name="chi">Чили</string>
+    <string name="col">Колумбия</string>
+    <string name="uru">Уругвай</string>
+</resources>
